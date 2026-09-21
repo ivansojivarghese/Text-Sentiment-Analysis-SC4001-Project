@@ -1,5 +1,7 @@
 # Sentiment Analysis Using Transformer-Based Meta-Learning Techniques
 
+View further details on [Ready Tensor](https://app.readytensor.ai/publications/transformer-based-approaches-for-sentiment-analysis-in-low-data-cross-domain-settings-aEudf65vfQ6E).
+
 ## 📘 Overview
 
 This project explores advanced sentiment analysis techniques using transformer-based models in few-shot and multi-domain settings. It was developed for the SC4001 Neural Networks & Deep Learning module at NTU.
